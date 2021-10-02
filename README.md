@@ -44,3 +44,6 @@ docker ps -a
 ```
 docker rm 2c505e438bad
 ``` 
+
+### Полезные ссылки
+* [Getting Started with Docker](https://www.youtube.com/watch?v=FzwIs2jMESM&list=PLPZy-hmwOdEXZ7m_3JtanruRUhaAuI_uh)
